@@ -1,2 +1,2 @@
-# Human-Protein-Protein-Interaction-Networks-A-Topological-Comparison-Review
+# Human Protein Protein Interaction Networks A Topological Comparison Review
 This is a repository for the paper: Human Protein–Protein Interaction Networks: A Topological Comparison Review. A pre-print version of this paper is available <a href="https://arxiv.org/pdf/2310.02378.pdf">here</a>. The order of sections in the paper and the notebooks in this repository do not match. However, you can find each section's corresponding code by their names. 
